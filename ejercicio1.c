@@ -46,7 +46,7 @@ int main ()
 		
 		//Sustituyo la función ESCRIBA “cadena” por printf
 		
-		printf("%d\n", Total);
+		printf("%d \n", Total);
 		
 	}
 	
