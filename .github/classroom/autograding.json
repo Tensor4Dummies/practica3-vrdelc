@@ -9,6 +9,16 @@
       "comparison": "exact",
       "timeout": 2,
       "points": 1
+    },
+    {
+      "name": "Test2",
+      "setup": "gcc -o ejercicio1 ejercicio1.c",
+      "run": "./ejercicio1.c",
+      "input": "0",
+      "output": "El número ha de ser mayor o igual a 1",
+      "comparison": "exact",
+      "timeout": 5,
+      "points": 1
     }
   ]
 }
