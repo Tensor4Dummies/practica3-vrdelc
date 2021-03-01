@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test1",
+      "setup": "gcc -o ejercicio1 ejercicio1.c",
+      "run": "./ejercicio1",
+      "input": "5",
+      "output": "15",
+      "comparison": "exact",
+      "timeout": 2,
+      "points": 1
+    }
+  ]
+}
