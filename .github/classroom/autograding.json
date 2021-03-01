@@ -12,7 +12,7 @@
     },
     {
       "name": "Test2",
-      "setup": "gcc -o ejercicio1 ejercicio1.c",
+      "setup": "",
       "run": "./ejercicio1.c",
       "input": "0",
       "output": "El número ha de ser mayor o igual a 1",
